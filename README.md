@@ -25,9 +25,13 @@ python3 meta.py
 
 ## Contact
 Guangyuan(Frank) Li  
+
 li2g2@mail.uc.edu
+
 Phd Student, Biomedical Informatic
+
 Cincinnati Children's Hospital Medical Center
+
 Univeristy of Cincinnati
 
 
