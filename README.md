@@ -21,7 +21,7 @@ python3 meta.py
 ```
 
 ## Workflow
-![melanoma workflow](https://github.com/frankligy/Meta-analysis-TCGA/figures/melanoma.png)
+![melanoma workflow](https://github.com/frankligy/Meta-analysis-TCGA/blob/main/figures/melanoma.png)
 
 ## Contact
 Guangyuan(Frank) Li  
